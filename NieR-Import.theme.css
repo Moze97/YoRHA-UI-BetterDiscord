@@ -25,7 +25,7 @@
   --font-display: var(--nier-font), "Whitney", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   --header-primary: var(--color-low);
   --header-secondary: var(--color-low);
-  --text-normal: var(--color-low);
+  --text-normal: var(--color-lowlow);
   --text-muted: var(--color-low-trans);
   --text-link: var(--color-alert);
   --text-link-low-saturation: var(--color-alert);
