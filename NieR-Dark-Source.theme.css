@@ -28,6 +28,7 @@
 /* GLOBAL VARIABLES */
 :root {
 	--color-high: rgb(87, 84, 74);
+	--color-lowlow: rgb(192, 182, 140)
 	--color-low: rgb(218, 212, 187);
 	--color-mid: rgb(151, 147, 129);
 	--color-alert: rgb(205, 102, 77);
