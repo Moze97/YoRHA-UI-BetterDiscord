@@ -97,7 +97,7 @@
   --scrollbar-auto-scrollbar-color-thumb: var(--color-low);
   --scrollbar-auto-scrollbar-color-track: transparent;
   --input-background: var(--color-high-trans);
-  --input-placeholder-text: var(--color-lowlow);
+  --input-placeholder-text: var(--input-placeholder-text-dark);
   --focus-primary: var(--blue-345);
   --control-brand-foreground: var(--color-alert);
   --control-brand-foreground-new: var(--color-alert);
