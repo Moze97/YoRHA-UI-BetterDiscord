@@ -25,7 +25,7 @@
   --font-display: var(--nier-font), "Whitney", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   --header-primary: var(--color-low);
   --header-secondary: var(--color-low);
-  --text-normal: var(--color-lowlow);
+  --text-normal: var(--color-low);
   --text-muted: var(--color-low-trans);
   --text-link: var(--color-alert);
   --text-link-low-saturation: var(--color-alert);
@@ -36,7 +36,7 @@
   --interactive-normal: var(--color-low);
   --interactive-hover: var(--color-low);
   --interactive-active: var(--color-low);
-  --interactive-muted: var(--color-lowlow);
+  --interactive-muted: var(--color-low);
   --mention-foreground: var(--color-alert);
   --mention-background: var(--color-alert-trans);
   --background-primary: var(--color-high);
@@ -47,15 +47,15 @@
   --background-nested-floating: var(--color-high);
   --background-mobile-primary: var(--color-high);
   --background-mobile-secondary: var(--color-high);
-  --chat-background: var(--color-high);
+  --chat-background: var(--color-lowlow);
   --chat-border: var(--color-high-trans);
-  --chat-input-container-background: var(--color-lowlow);
+  --chat-input-container-background: var(--color-low);
   --background-modifier-hover: var(--color-mid);
   --background-modifier-active: var(--color-mid);
   --background-modifier-selected: var(--color-mid);
   --background-modifier-accent: var(--color-mid);
   --info-positive-background: var(--color-mid);
-  --info-positive-text: var(--color-lowlow);
+  --info-positive-text: var(--color-low);
   --info-warning-background: var(--color-alert-trans);
   --info-warning-foreground: var(--color-alert);
   --info-warning-text: var(--color-alert);
