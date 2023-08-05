@@ -49,7 +49,7 @@
   --background-mobile-secondary: var(--color-high);
   --chat-background: var(--color-high);
   --chat-border: var(--color-high-trans);
-  --chat-input-container-background: var(--color-high);
+  --chat-input-container-background: var(--color-lowlow);
   --background-modifier-hover: var(--color-mid);
   --background-modifier-active: var(--color-mid);
   --background-modifier-selected: var(--color-mid);
