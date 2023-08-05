@@ -36,7 +36,7 @@
   --interactive-normal: var(--color-low);
   --interactive-hover: var(--color-low);
   --interactive-active: var(--color-low);
-  --interactive-muted: var(--color-low-trans);
+  --interactive-muted: var(--color-lowlow);
   --mention-foreground: var(--color-alert);
   --mention-background: var(--color-alert-trans);
   --background-primary: var(--color-high);
@@ -55,7 +55,7 @@
   --background-modifier-selected: var(--color-mid);
   --background-modifier-accent: var(--color-mid);
   --info-positive-background: var(--color-mid);
-  --info-positive-text: var(--color-low);
+  --info-positive-text: var(--color-lowlow);
   --info-warning-background: var(--color-alert-trans);
   --info-warning-foreground: var(--color-alert);
   --info-warning-text: var(--color-alert);
